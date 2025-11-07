@@ -1,6 +1,12 @@
 # Une introduction aux réseaux de neurones
 Ce projet utilise un modèle CNN pour classifier 3 types de maladies des feuilles de riz.
 
+### 🎬 **Jeu de données** 
+
+Les données proviennent du dataset **Rice Leaf Diseases** :
+
+📎  https://www.kaggle.com/datasets/vbookshelf/rice-leaf-diseases
+
 ###  **Fichier requirements.txt :**
 ```txt
 tensorflow>=2.8.0
