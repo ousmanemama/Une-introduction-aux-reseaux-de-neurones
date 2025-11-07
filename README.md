@@ -16,5 +16,5 @@ numpy
 ```bash
 pip install -r requirements.txt
 ```
-## Auteurs
+## Auteur
 - **Ousmane Mama DIALLO**
